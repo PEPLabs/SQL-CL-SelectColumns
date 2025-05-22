@@ -25,6 +25,8 @@ public class FilterColumns {
      * problem 1: Write the SQL statement in the problem1.sql file to return only the 'firstname' column from the
      * site_user table
      *
+     * NOTE: Please write the SQL statement on a single line (do not use multi-line formatting).
+     *
      *      site_user table:
      *      |   id  |     firstname        |        lastname        |
      *      ----------------------------------------------------------
